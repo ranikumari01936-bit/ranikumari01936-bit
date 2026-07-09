@@ -1,5 +1,5 @@
- 👋Hi, I am Rani Kumari
-🎯 Data Science Enthusiast | Machine Learning Developer | Python Programmer.
+** 👋Hi, I am Rani Kumari
+🎯 Data Science Enthusiast | Machine Learning Developer | Python Programmer.**
 
 I’m passionate about building data-driven solutions, analyzing trends, and creating impactful machine learning models. I enjoy working on real-world datasets, especially in domains like Fraud detection system and stock market prediction.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
