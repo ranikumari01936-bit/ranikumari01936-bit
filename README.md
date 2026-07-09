@@ -73,8 +73,8 @@ Cleaned and analyzed large datasets with actionable insights.
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/rani-kumari-106837390/?isSelfProfile=true]
-- 📧 **Email**: rani@example.com
-- 🐙 **GitHub**: [@ranikumari01936-bit](https://github.com/ranikumari01936-bit)
+- 📧 **Email**: ranikumari01936@gmail.com
+- 🐙 **GitHub**: (https://github.com/ranikumari01936-bit)
 
 ---
 
