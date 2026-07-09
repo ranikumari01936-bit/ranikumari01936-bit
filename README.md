@@ -19,7 +19,9 @@ I'm passionate about building data-driven solutions, analyzing trends, and creat
 
 ### Languages
 - Python
-- SQL
+- Html
+- java & c++ basic
+
 
 ### Libraries & Frameworks
 - NumPy, Pandas, Scikit-learn
