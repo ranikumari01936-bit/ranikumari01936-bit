@@ -1,5 +1,5 @@
-** 👋Hi, I am Rani Kumari
-🎯 Data Science Enthusiast | Machine Learning Developer | Python Programmer.**
+ 👋**Hi, I am Rani Kumari**
+🎯 **Data Science Enthusiast | Machine Learning Developer | Python Programmer**.
 
 I’m passionate about building data-driven solutions, analyzing trends, and creating impactful machine learning models. I enjoy working on real-world datasets, especially in domains like Fraud detection system and stock market prediction.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,16 +17,16 @@ Visualization: Power BI, Tableau, Matplotlib, Seaborn
 Databases: MySQL
 Other: Git/GitHub, Excel, FastAPi
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📂 Featured Projects
+📂 **Featured Projects**
 
-TrustShield – AI Fraud Detection System
+**TrustShield – AI Fraud Detection System
 Detects fake apps, phishing links, and scam screenshots before fraud occurs.
-Uses multi-modal ML (text + image + metadata).
+Uses multi-modal ML (text + image + metadata).**
 
 Interactive dashboard with real-time alerts.
 Data Cleaning & Visualization in Power BI
 Cleaned and analyzed large datasets.
-
+**
 Built dashboards for actionable insights.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 **Current Focus**
