@@ -1,7 +1,7 @@
  👋Hi, I am Rani Kumari
 🎯 Data Science Enthusiast | Machine Learning Developer | Python Programmer
 
-I’m passionate about building data-driven solutions, analyzing trends, and creating impactful machine learning models. I enjoy working on real-world datasets, especially in domains like Fraud detection system And sales and stock market prediction.
+I’m passionate about building data-driven solutions, analyzing trends, and creating impactful machine learning models. I enjoy working on real-world datasets, especially in domains like Fraud detection system and stock market prediction.
 <!--
 **ranikumari01936-bit/ranikumari01936-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
