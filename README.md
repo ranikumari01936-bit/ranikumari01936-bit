@@ -2,7 +2,7 @@
 
 **🎯 Data Science Enthusiast | Machine Learning Developer | Python Programmer**
 
-I'm passionate about building data-driven solutions, analyzing trends, and creating impactful machine learning models. I enjoy working on real-world datasets, especially in domains like fraud detection, cybersecurity, and AI-powered analytics.
+I'm passionate about building data-driven solutions, analyzing trends, and creating impactful machine learning models. I enjoy working on real-world datasets, especially in domains like fraud detection, and AI-powered analytics.
 
 ---
 
